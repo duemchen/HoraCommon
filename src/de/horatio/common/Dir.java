@@ -2,7 +2,7 @@
  * Created on 01.02.2006
  *
  * 
- * Window - Preferences - Java - Code Style - Code Templates
+ * Windoow - Preferences - Java - Code Style - Code Templates
  */
 package de.horatio.common;
 import java.io.File;
