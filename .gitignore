@@ -33,3 +33,4 @@ tmp/
 **.ini
 **.conf
 
+/dist/
